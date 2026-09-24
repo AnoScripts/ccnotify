@@ -10,23 +10,12 @@
 	"banner": "minecraft:black_banner[banner_patterns=[{\"pattern\":\"minecraft:stripe_right\",\"color\":\"black\"},{\"pattern\":\"minecraft:stripe_downleft\",\"color\":\"red\"},{\"pattern\":\"minecraft:gradient\",\"color\":\"black\"},{\"pattern\":\"minecraft:bricks\",\"color\":\"black\"},{\"pattern\":\"minecraft:straight_cross\",\"color\":\"magenta\"},{\"pattern\":\"minecraft:skull\",\"color\":\"purple\"},{\"pattern\":\"minecraft:stripe_downright\",\"color\":\"red\"},{\"pattern\":\"minecraft:stripe_bottom\",\"color\":\"black\"},{\"pattern\":\"minecraft:stripe_center\",\"color\":\"black\"},{\"pattern\":\"minecraft:creeper\",\"color\":\"black\"},{\"pattern\":\"minecraft:triangle_top\",\"color\":\"black\"},{\"pattern\":\"minecraft:square_bottom_left\",\"color\":\"black\"},{\"pattern\":\"minecraft:square_top_left\",\"color\":\"black\"}]]",
 	"_markup": "one string per line. '# ' header, '## ' subheader, '### ' small header, '- ' bullet, **bold**, *italic*, &e and friends for vanilla colour codes.",
 	"news": [
-		"# CCNotify 1.1.0",
+		"# Live news",
 		"",
-		"## What changed",
-		"- The big button is now **Leave & Notify Clan Members** - same thing it always did: post the base's loot and shield, then leave.",
-		"- The little **...** button next to it opens *this* panel.",
-		"- The mod is called **CCNotify** now. Same jar, new name.",
+		"This text comes from **GitHub**, not the jar.",
+		"- edit &bccnotify.json&r in the repo",
+		"- reopen the panel",
 		"",
-		"## Formatting test",
-		"Plain text wraps on its own once a line gets long enough to run past the right edge of the panel, like this one does.",
-		"**Bold text**, *italic text*, and **both *nested* together**.",
-		"Colours: &cred&r, &agreen&r, &eyellow&r, &bagua&r, &dpink&r, &6gold&r.",
-		"- bullet one",
-		"- bullet two, with a **bold** word in it",
-		"",
-		"### Notes",
-		"This news is read from &7assets/ccnotify/ccnotify.json&r inside the jar, together with the clan name and the whitelist - one file, read the first time it is needed.",
-		"",
-		"&8Panel opened from the pause menu."
+		"&8swap test"
 	]
 }
