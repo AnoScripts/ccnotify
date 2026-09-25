@@ -12,7 +12,7 @@
 	"_markup": "one string per line. '# ' header, '## ' subheader, '### ' small header, '- ' bullet, **bold**, *italic*, &e and friends for vanilla colour codes.",
 	"news": [
 		"# Welcome to CCNotify!",
-		"*Made for the CC clan.*",
+		"~*~The Official Enderman in Paris Mod~*~",
 		"",
 		"&c&lGive Clan Members a Shield!! Attack them only 10% !",
 		"",
@@ -27,7 +27,6 @@
 		"- Mob faces show up after your first raid with them.",
 		"",
 		"## Good to know",
-		"- Only works while you're in **CC**.",
 		"- Joining or leaving the clan is posted to the clan.",
 		"",
 		"&7Fishing stats are coming soon.."
