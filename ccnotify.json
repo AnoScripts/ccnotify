@@ -12,9 +12,11 @@
 	"_markup": "one string per line. '# ' header, '## ' subheader, '### ' small header, '- ' bullet, **bold**, *italic*, &e and friends for vanilla colour codes.",
 	"news": [
 		"# Welcome to CCNotify!",
+		"",
 		"~*~The Official Enderman in Paris Mod~*~",
 		"",
-		"&c&lGive Clan Members a Shield!! Attack them only 10% !",
+		"&c&lGive Clan Members a Shield!!",
+		"&c&lAttack them only 10% !",
 		"",
 		"## Leave & Notify",
 		"- Press **Leave & Notify Clan Members** instead of Disconnect.",
