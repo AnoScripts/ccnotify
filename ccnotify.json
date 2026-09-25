@@ -11,12 +11,25 @@
 	"banner": "minecraft:black_banner[banner_patterns=[{\"pattern\":\"minecraft:stripe_right\",\"color\":\"black\"},{\"pattern\":\"minecraft:stripe_downleft\",\"color\":\"red\"},{\"pattern\":\"minecraft:gradient\",\"color\":\"black\"},{\"pattern\":\"minecraft:bricks\",\"color\":\"black\"},{\"pattern\":\"minecraft:straight_cross\",\"color\":\"magenta\"},{\"pattern\":\"minecraft:skull\",\"color\":\"purple\"},{\"pattern\":\"minecraft:stripe_downright\",\"color\":\"red\"},{\"pattern\":\"minecraft:stripe_bottom\",\"color\":\"black\"},{\"pattern\":\"minecraft:stripe_center\",\"color\":\"black\"},{\"pattern\":\"minecraft:creeper\",\"color\":\"black\"},{\"pattern\":\"minecraft:triangle_top\",\"color\":\"black\"},{\"pattern\":\"minecraft:square_bottom_left\",\"color\":\"black\"},{\"pattern\":\"minecraft:square_top_left\",\"color\":\"black\"}]]",
 	"_markup": "one string per line. '# ' header, '## ' subheader, '### ' small header, '- ' bullet, **bold**, *italic*, &e and friends for vanilla colour codes.",
 	"news": [
-		"# Live news",
+		"# Welcome to CCNotify!",
+		"*Made for the CC clan.*",
 		"",
-		"This text comes from **GitHub**, not the jar.",
-		"- edit &bccnotify.json&r in the repo",
-		"- reopen the panel",
+		"&c&lGive Clan Members a Shield!! Attack them only 10% !",
 		"",
-		"&8swap test"
+		"## Leave & Notify",
+		"- Press **Leave & Notify Clan Members** instead of Disconnect.",
+		"- It posts your loot and shield time to Discord, then leaves.",
+		"- Shield almost gone? It asks the clan for help.",
+		"",
+		"## Your Stats",
+		"- Every raid counts: gold, amethyst, stars, attacks.",
+		"- Counting starts now - older raids aren't included.",
+		"- Mob faces show up after your first raid with them.",
+		"",
+		"## Good to know",
+		"- Only works while you're in **CC**.",
+		"- Joining or leaving the clan is posted to the clan.",
+		"",
+		"&7Fishing stats are coming soon.."
 	]
 }
