@@ -1,5 +1,6 @@
 {
 	"clan": "CC",
+	"showNotificationButton": false,
 	"_comment": "whitelist: may notify whatever clan the sidebar says - by UUID, because names change. freddy46, KingCCB, Ajdam01.",
 	"whitelist": [
 		"9a2e9d45-c459-474d-8596-bbf1f1e4c912",
